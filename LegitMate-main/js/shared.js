@@ -16,7 +16,7 @@ import { getAuth, onAuthStateChanged, signOut } from "https://www.gstatic.com/fi
 
 // <-- Use the same config you already have in sign.js -->
 const firebaseConfig = {
-  apiKey: "AIzaSyCPaYAW_OgQ7ch1EvM2DvXR2L3qBoOl-lM",
+  apiKey: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
   authDomain: "legitmate-e5b35.firebaseapp.com",
   projectId: "legitmate-e5b35",
   appId: "1:843217845569:web:52297b376df0fcb65c35c0",
