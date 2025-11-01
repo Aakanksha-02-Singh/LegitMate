@@ -87,7 +87,7 @@ window.addEventListener('resize', () => {
   import { getFirestore, collection, addDoc } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js";
 
   const firebaseConfig = {
-    apiKey: "AIzaSyCPaYAW_OgQ7ch1EvM2DvXR2L3qBoOl-lM",
+    apiKey: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
     authDomain: "legitmate-e5b35.firebaseapp.com",
     projectId: "legitmate-e5b35",
     appId: "1:843217845569:web:52297b376df0fcb65c35c0",
